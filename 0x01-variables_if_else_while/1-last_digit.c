@@ -1,12 +1,13 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
-
 /**
- * main - Determines if a number is positive, negative or zero.
- * main - Determines either greater than 5, is less than 6, or is 0
+ * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
+
 {
 int n;
 

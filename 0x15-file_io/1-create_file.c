@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * create_file - creates a file
@@ -36,5 +36,3 @@ int create_file(const char *filename, char *text_content)
 
 	return (1);
 }
-[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmain.h[C[C[C[C"
-[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[A

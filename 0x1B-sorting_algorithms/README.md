@@ -1,7 +1,9 @@
 # Sorting algorithms
 
 Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about sorting algorithms (bubble sort, insertion sort, selection sort, quick sort and so on) and Big O Notation in **C language**.
-https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png
+
+![image](https://user-images.githubusercontent.com/37805319/179871578-1132659f-0436-4a85-ab04-c195226f6ef6.png)
+
 
 
 ## Technologies
